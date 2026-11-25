@@ -11,8 +11,8 @@ Customers are described by type, never named. Add or change facts via `skills/up
 ## Snapshot (stage 01 reads only this)
 - 15 years with Standard Bearings (industrial distributor: power transmission, fluid power,
   conveying, automation), 10 in outside sales. [verified]
-- Manages more than 180 active accounts, about $3.1M annual sales, southeast Iowa. [verified/approx]
-- Grew the territory from under $500,000 (2016) to about $3.1 million (2026). [verified/approx]
+- About 75 buying accounts (191 in the territory), about $3.0M in sales over the last 12 months. [verified 11-25-2026]
+- Grew the territory from under $500,000 (2016) to about $3 million (2026). [verified]
 - Education: A.S. in Engineering. No bachelor's degree. [verified]
 - Based in West Branch, IA. [verified]
 - Strongest at: opening new accounts and solving technical problems on the plant floor. [verified]
@@ -38,8 +38,15 @@ Customers are described by type, never named. Add or change facts via `skills/up
 - F-JOB-05 Standard Bearings came under Weimer through an acquisition; Tobi didn't formally re-hire. [verified] (context only, never on a resume)
 
 ## Scope and numbers (current role)
-- F-SALES-01 About $3.1M in annual sales (2026). [approx — write "about $3.1 million"]
-- F-SALES-02 Book shows ~212–220 customers; earlier "more than 180 active." [approx]
+- F-SALES-01 Sales, Annual Forecasting Dashboard (pulled 11-25-2026): $3,035,262 for 11-01-2025 to
+  10-31-2026, up from $2,252,974 the 12 months before (+35%). [verified] Write "about $3 million."
+  Through Q3 calendar 2026: $2.35M vs. $1.71M in 2025. Top 10 accounts are about 72% of sales.
+  Part of the jump may be one large order (F-SALES-08) — confirm its timing before claiming the 35%.
+- F-SALES-02 Dashboard count (11-25-2026, last 12 months): 191 accounts listed; 74 bought (16 of them
+  under $1,000); 65 bought the year before; 56 bought both years; 18 new or returning; 9 bought the year
+  before but not this year; 108 no sales in either year. [verified]
+  Write "about 75 active accounts" or "more than 190 accounts, about 75 buying." Never "180 active."
+  Older notes: book ~212–220 customers.
   11-25-2026: Tobi prospected and set up about 205 of the ~220 himself; many are still prospects with
   no sales yet; some are inactive or handed off but still listed under him. About 165 he sought out himself.
   [verified] How many bought in the last 12 months? [confirm — needed before writing "active accounts"
@@ -64,7 +71,7 @@ Customers are described by type, never named. Add or change facts via `skills/up
   $144,000 each from the other manufacturer (about 37% lower, about $210,000 less across 4), and
   about 3 months faster. [verified — Tobi, 11-25-2026; lead time approx]
   Write "a $363,000 order," "more than $200,000 below the competing price," "about three months sooner."
-- F-SALES-10 Gross margin on his territory: 29.9% (2025), 29.1% (2026). [verified — Tobi, 11-25-2026]
+- F-SALES-10 Gross margin on his territory: 29.4% (11-2024 to 10-2025), 28.6% (11-2025 to 10-2026); through Q3: 29.9% (2025), 29.1% (2026). [verified — Tobi, 11-25-2026]
   Company average unknown (he guesses 22–25%); never claim "above average."
   Decision 11-25-2026: margin stays off resumes; use it in interviews only.
 - F-SALES-11 Comp plan: sales and GP goals; bonus based on new customers opened, starting 2026.
@@ -281,7 +288,7 @@ Customers are described by type, never named. Add or change facts via `skills/up
   Electrical connector/wire sales. Savings from the integral gearmotor recommendation (F-STORY-02).
 - OEM design-in wins (parts written onto a customer's drawing) — unless confirmed.
 - Chillers — unless he names what he supplied.
-- 212 accounts (use "more than 180"). Any number not in this file.
+- 212 or 180 "active" accounts (use about 75 active). Any number not in this file.
 - The largest account's name, or the aluminum casting plant's name.
 - Weimer as employer. Any customer's name.
 - "Above company average" margin. Competitors' results. "Opened X accounts" until F-SALES-02 is confirmed.
