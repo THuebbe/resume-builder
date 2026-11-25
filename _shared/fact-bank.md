@@ -46,6 +46,14 @@ Customers are described by type, never named. Add or change facts via `skills/up
   under $1,000); 65 bought the year before; 56 bought both years; 18 new or returning; 9 bought the year
   before but not this year; 108 no sales in either year. [verified]
   Write "about 75 active accounts" or "more than 190 accounts, about 75 buying." Never "180 active."
+- F-SALES-15 Opened vs. inherited (Tobi sorted the 191 accounts 11-25-2026, "pretty close, not 100%"):
+  - Opened by Tobi: 157 accounts set up; 58 bought in the last 12 months (43 of them $1,000+);
+    $2.28M of $3.04M (75%); up 53% from $1.49M the year before. 7 of them over $100,000.
+  - Inherited: 16 accounts; 15 buying; $754K (25%); flat year over year.
+  - Not his (listed under him): 18; essentially no sales.
+  - New in 2026: 9 accounts, all buying, about $72,000 so far.
+  [verified approx] Write "opened more than 50 of about 73 active accounts, which produce about 75% of
+  sales," "opened 9 new accounts in 2026." Confirm the roll-neck order's timing before claiming the 53%.
   Older notes: book ~212–220 customers.
   11-25-2026: Tobi prospected and set up about 205 of the ~220 himself; many are still prospects with
   no sales yet; some are inactive or handed off but still listed under him. About 165 he sought out himself.
