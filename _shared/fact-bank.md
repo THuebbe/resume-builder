@@ -65,12 +65,15 @@ Customers are described by type, never named. Add or change facts via `skills/up
   about 3 months faster. [verified — Tobi, 11-25-2026; lead time approx]
   Write "a $363,000 order," "more than $200,000 below the competing price," "about three months sooner."
 - F-SALES-10 Gross margin on his territory: 29.9% (2025), 29.1% (2026). [verified — Tobi, 11-25-2026]
-  Company average unknown (he guesses 22–25%); never claim "above average." Write "about 30% gross margin."
+  Company average unknown (he guesses 22–25%); never claim "above average."
+  Decision 11-25-2026: margin stays off resumes; use it in interviews only.
 - F-SALES-11 Comp plan: sales and GP goals; bonus based on new customers opened, starting 2026.
   No contests or awards; no rankings shared. [verified] (context only)
 - F-SALES-12 Lost accounts: one at $200,000–250,000 when the manufacturer took it direct; one at
-  about $100,000 when its corporate office signed a national contract with a competitor (still did
-  about $32,000 with him in 2026). A couple closed. Retention otherwise strong. [verified] Interview only.
+  about $100,000 when its corporate office signed a national contract with a competitor. Dropped to
+  nearly $0 in the contract's first year under close monitoring; by year end the buyer was coming back
+  because the new supplier wasn't meeting the service level Tobi had set. Worked back up to about
+  $32,000 in 2026, with more expected in 2027. [verified — Tobi, 11-25-2026] A couple closed. Retention otherwise strong. [verified] Interview only.
 - F-SALES-13 2021–2022 shortages: found interchanges and alternate sources constantly; his sales grew
   through that period. [verified] Competitors "flat or down" is hearsay; don't claim it.
 - F-SALES-14 Urgent support: 2–3 after-hours calls a month, 2–3 same-day couriers a month, next-day
