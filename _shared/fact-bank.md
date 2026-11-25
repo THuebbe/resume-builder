@@ -1,6 +1,6 @@
 # Fact bank — the only source of facts about Tobi
 
-reviewed: 11-24-2026
+reviewed: 11-25-2026
 
 Status tags: **[verified]** Tobi stated it plainly · **[approx]** rough number; use the safe version
 shown · **[confirm]** inferred or from an older source; do not use until Tobi says yes.
@@ -30,7 +30,10 @@ Customers are described by type, never named. Add or change facts via `skills/up
   Started in inside sales; worked in the warehouse while learning the products; later full-time
   inside; covered inside sales and the warehouse together after the warehouse lead retired, until a
   replacement was hired. [verified — Tobi, 11-24-2026]
-- F-JOB-03 Prior role at Kohl's (appears on LinkedIn). Title and dates unknown. [confirm]
+- F-JOB-03 Kohl's, February 2008 to July 2011. Started on the register; worked customer service,
+  cash office, facilities and truck unloading; ended as Customer Service Supervisor (current title
+  for the role). Top performer on credit card and email sign-ups. [verified — Tobi, 11-25-2026]
+  Off resumes by default (pre-industry, space); keep on LinkedIn.
 - F-JOB-04 Employer naming: always "Standard Bearings." Never Weimer. [verified]
 - F-JOB-05 Standard Bearings came under Weimer through an acquisition; Tobi didn't formally re-hire. [verified] (context only, never on a resume)
 
@@ -45,12 +48,20 @@ Customers are described by type, never named. Add or change facts via `skills/up
 - F-SALES-07 Territory sales: just under $500,000 when Tobi took it over in 2016 (about $489,000),
   about $3.1M in 2026. That's about 6.3x, roughly 20% a year compounded. [verified — Tobi, 11-24-2026]
   Write "grew territory sales from under $500,000 to about $3.1 million."
-  How much came from accounts reassigned to him after 2016? [confirm — interviewers will ask]
+  Reassigned accounts: a few were handed to him after 2016 and he has grown them too. The 4 that
+  move the numbers: $566,368 in 2026 (year to date, 11-2026) and $619,422 in 2025. Two swing a lot
+  year to year by their nature; two hold steady at about $30,000 and $60,000. [verified — Tobi, 11-25-2026]
+  So about $2.5M of the $3.1M is outside those 4 (about 5x the 2016 base). Interview answer, not resume text.
 - F-SALES-08 Largest single order: 4 large roll-neck bearings for an aluminum casting plant,
   $363,407.36, delivered ahead of the originally forecast lead time. [verified]
-  Write "a $363,000 order."
+  Tobi found the opportunity. None of his usual suppliers could quote the bearing; he worked with a
+  vendor that didn't make it yet, and that vendor added it because of this order. Came in at about
+  two-thirds of the competing price and about 3 months faster. [verified; price and lead time approx]
+  Write "a $363,000 order," "about a third below the competing price," "about three months sooner."
 - F-SALES-09 Largest account: a motor repair shop. Consignment stock of bearings, seals and paint,
   plus many new gearbox units. Likely over $300,000 in 2026. [approx — write "about $300,000"]
+  Took the consignment over from a competitor whose stock sat on shelves, poorly organized. Tobi's
+  team moved it into labeled bin drawers with minimums and built count and reorder forms. [verified — Tobi, 11-25-2026]
 
 ## Territory and markets
 - F-MKT-01 Southeast Iowa: Quad Cities, DeWitt, Muscatine, Mount Pleasant, Burlington, Fort Madison, Keokuk. [verified]
@@ -85,10 +96,12 @@ Customers are described by type, never named. Add or change facts via `skills/up
 
 ## Education and training
 - F-EDU-01 A.S., Engineering, Eastern Iowa Community Colleges, ~2004. Year never shown. [verified]
-- F-EDU-02 MSHA Part 48 miner training for underground mine access. [verified]
-  Older draft said "48B" (surface). [confirm — 48A, 48B, or both?]
-- F-EDU-03 Manufacturer product training: Gates, Continental, Fenner (belt drives). [verified]
-- F-EDU-04 Data-center-specific product training. [verified that it happened; confirm which manufacturer]
+- F-EDU-02 MSHA Part 48: completed 48B (surface) first, then 48A (underground). [verified — Tobi, 11-25-2026]
+  Write "MSHA Part 48 miner training, surface and underground." Annual refresher current? [confirm before writing "current"]
+- F-EDU-03 Manufacturer product training: Gates (belts and hose), Fenner (presentations on niche
+  belting and components), Continental (belts), Global O-Ring and Seal (industry-specific seal
+  information). [verified — Tobi, 11-24 and 11-25-2026]
+- F-EDU-04 Data-center-specific product training. No manufacturer named when asked 11-25-2026. [confirm — do not use]
 - F-EDU-05 Older draft listed LOTO, VFD/soft-starter training, and SKF, Dodge, Rexnord, Nord,
   Radicon training. [confirm — origin unknown, do not use yet]
 
@@ -109,7 +122,8 @@ Customers are described by type, never named. Add or change facts via `skills/up
   time, the customer wanted to replace that whole brand of motors and gearboxes. Tobi pushed back: the
   brand was fine, the integral style was the problem. Recommended a separate gearbox with a NEMA
   C-face motor: faster lead times, parts on the shelf, replace only the failed piece.
-  [verified story] Dollar impact (~$30,000 avoided vs. under $1,000?) [confirm]
+  [verified] Not adopted yet: stalled waiting on information from the customer. No savings to claim.
+  Interview story about technical judgment only; never claim a result.
 
 - **F-STORY-03 Gearbox reliability turnaround** (gypsum plant). Reducers failing every 6 months,
   sometimes in 2–3 weeks, from cracked cast housings. Switched brand and style at the same frame
@@ -172,7 +186,9 @@ Customers are described by type, never named. Add or change facts via `skills/up
   compliant assembly that cost less. [verified]
 
 - **F-STORY-16 Storeroom surveys** (food processor, a couple of plants). Cataloged every storeroom
-  bin, then priced competitively or crossed items to budget-saving brands. [verified] Results? [confirm]
+  bin, then priced competitively or crossed items to budget-saving brands. [verified]
+  Result: some parts moved over as they come up for order; nothing in bulk; no numbers tracked. [verified]
+  Don't claim savings or volume.
 
 - **F-STORY-17 Turnkey conveyor systems.** Sold complete conveyor systems, coordinating
   installation with a millwright crew. At least 6. Most recent about $20,000; typical $12,000–16,000.
@@ -190,7 +206,8 @@ Customers are described by type, never named. Add or change facts via `skills/up
   customer site survey, 11-2026. [verified]
 - F-BUILD-04 Built a personal follow-up system: call capture feeding a daily action-item tracker;
   retired 11-24-2026. [verified] (resume wording: "keep my own follow-up pipeline")
-- F-BUILD-05 Prepared a talk track for the Iowa Recycling & Solid Waste Conference expo (10-2026). [confirm — attended?]
+- F-BUILD-05 Attended the Iowa Recycling & Solid Waste Conference expo (10-2026) with a prepared
+  talk track. Two contacts, neither promising; most exhibitors were outside his territory. [verified] Not resume material.
 
 ## Mentoring and leadership
 - F-LEAD-01 Has trained three reps; all lacked territory mapping, canvassing, cold-call and
@@ -218,13 +235,15 @@ Customers are described by type, never named. Add or change facts via `skills/up
 - F-STR-05 Weaker at tending mature accounts once growth plateaus. [verified] (context, never on a resume)
 
 ## References (not on the resume; for applications that ask)
-- F-REF-01 Danny (customer contact) — possible reference; not yet asked. [confirm which company]
+- F-REF-01 Danny (food processor customer, the same account as F-STORY-18) — possible reference; not yet asked. [verified]
+  Full names and companies of references stay out of this repo; Tobi keeps them.
 - F-REF-02 Nick (limestone mining customer) — possible reference; not yet asked. [verified]
 
 ---
 
 ## Do not claim
-- A bachelor's degree. Salesforce. Data center sales experience. Electrical connector/wire sales.
+- A bachelor's degree. Salesforce. Data center sales experience or data center training.
+  Electrical connector/wire sales. Savings from the integral gearmotor recommendation (F-STORY-02).
 - OEM design-in wins (parts written onto a customer's drawing) — unless confirmed.
 - Chillers — unless he names what he supplied.
 - 212 accounts (use "more than 180"). Any number not in this file.

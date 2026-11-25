@@ -21,3 +21,12 @@ Settled while building the first resumes (TE Connectivity screen, Stellar Energy
 - **Text-only version is the template.** The image-heavy "drawing sheet" design was retired for ATS.
 - **Email on resumes: thuebbe08@gmail.com.** Business-domain addresses signal a side business.
 - **Phone-export text enlargement fixed** with text-size-adjust and explicit font sizes.
+
+## 11-25-2026 (fact bank interview, round 2)
+- **Kohl's stays off resumes.** Pre-industry and costs space; LinkedIn keeps it.
+- **Territory growth line stays "under $500,000 to about $3.1 million."** About $600K comes from four
+  reassigned accounts; that breakdown is the interview answer, not resume text.
+- **Data center training line removed** from the template; no manufacturer could be named.
+- **MSHA line: "surface and underground"** (48B, then 48A).
+- **Reference names and companies stay out of the repo** (customer confidentiality).
+- **Stellar Energy archived:** posting closed before applying.
