@@ -12,6 +12,7 @@ Customers are described by type, never named. Add or change facts via `skills/up
 - 15 years with Standard Bearings (industrial distributor: power transmission, fluid power,
   conveying, automation), 10 in outside sales. [verified]
 - Manages more than 180 active accounts, about $3.1M annual sales, southeast Iowa. [verified/approx]
+- Grew the territory from under $500,000 (2016) to about $3.1 million (2026). [verified/approx]
 - Education: A.S. in Engineering. No bachelor's degree. [verified]
 - Based in West Branch, IA. [verified]
 - Strongest at: opening new accounts and solving technical problems on the plant floor. [verified]
@@ -41,7 +42,15 @@ Customers are described by type, never named. Add or change facts via `skills/up
 - F-SALES-05 Built the territory through prospecting and cold calling; turns new customers into
   mature accounts; grows them through audits, capital projects, and system and process redesigns. [verified]
 - F-SALES-06 Good at cold calling; dislikes parts of the process. [verified] (context, not resume wording)
-- F-SALES-07 Year-over-year growth or % of plan. [confirm — not yet provided]
+- F-SALES-07 Territory sales: just under $500,000 when Tobi took it over in 2016 (about $489,000),
+  about $3.1M in 2026. That's about 6.3x, roughly 20% a year compounded. [verified — Tobi, 11-24-2026]
+  Write "grew territory sales from under $500,000 to about $3.1 million."
+  How much came from accounts reassigned to him after 2016? [confirm — interviewers will ask]
+- F-SALES-08 Largest single order: 4 large roll-neck bearings for an aluminum casting plant,
+  $363,407.36, delivered ahead of the originally forecast lead time. [verified]
+  Write "a $363,000 order."
+- F-SALES-09 Largest account: a motor repair shop. Consignment stock of bearings, seals and paint,
+  plus many new gearbox units. Likely over $300,000 in 2026. [approx — write "about $300,000"]
 
 ## Territory and markets
 - F-MKT-01 Southeast Iowa: Quad Cities, DeWitt, Muscatine, Mount Pleasant, Burlington, Fort Madison, Keokuk. [verified]
@@ -89,11 +98,12 @@ Customers are described by type, never named. Add or change facts via `skills/up
 
 - **F-STORY-01 Bucket elevator resonance** (construction-materials plant). Elevator shook hard enough
   to shake the building; shaft visibly moving; bearings destroyed; everyone suspected the gearbox.
-  Quote was about $20,000 gearbox + about $6,000 bearings, plus crane time. Tobi wasn't convinced,
-  found sprocket teeth catching the chain and setting up a resonance as it sped up and slowed down.
-  Fixed with a bracket for about $3,000–4,000. No crane, faster repair. [verified story; approx numbers]
-  Safe version: "Diagnosed a resonance problem everyone took for gearbox failure; a $3,000–4,000 fix
-  replaced a quoted $26,000 gearbox and bearings and avoided a crane." [confirm exact sprocket detail]
+  Quote was a gearbox at $17,000–20,000 plus two bearings at about $3,000 each (about $6,000),
+  plus crane time. Tobi wasn't convinced; found the head sprocket teeth catching the chain and setting
+  up a resonance as it sped up and slowed down. The fix was a head sprocket under $4,000. No crane,
+  faster repair. [verified — Tobi, 11-24-2026]
+  Safe version: "Traced a bucket elevator vibration everyone blamed on the gearbox to a worn head
+  sprocket; a sprocket under $4,000 replaced a quoted $23,000+ gearbox and bearing job and avoided a crane."
 
 - **F-STORY-02 Integral gearmotor pushback.** After an integral gearmotor failed with a long lead
   time, the customer wanted to replace that whole brand of motors and gearboxes. Tobi pushed back: the
@@ -114,7 +124,7 @@ Customers are described by type, never named. Add or change facts via `skills/up
 - **F-STORY-05 Custom knife gate** (limestone mining). Standard linear-actuator knife gates jam
   under a full bin and can't close past a trapped rock. Worked with the manufacturer to design a
   custom 16-inch rack-and-pinion slide gate driven by a 5 HP helical-bevel gearmotor, and specified
-  the encoder for position feedback. Ordered April 2026. [verified] Installed and working? [confirm]
+  the encoder for position feedback. Ordered April 2026. Installed and confirmed working. [verified — Tobi, 11-24-2026]
 
 - **F-STORY-06 Line-shaft conveyor redesign (honest miss).** Roller conveyor carrying bars from a
   tempering furnace to the quench ran on one chain, so one failure stopped the line. Redesigned it to
@@ -164,8 +174,9 @@ Customers are described by type, never named. Add or change facts via `skills/up
 - **F-STORY-16 Storeroom surveys** (food processor, a couple of plants). Cataloged every storeroom
   bin, then priced competitively or crossed items to budget-saving brands. [verified] Results? [confirm]
 
-- **F-STORY-17 Turnkey conveyor systems.** Sold complete conveyor systems several times, coordinating
-  installation with a millwright crew. [verified] How many, and dollar range? [confirm]
+- **F-STORY-17 Turnkey conveyor systems.** Sold complete conveyor systems, coordinating
+  installation with a millwright crew. At least 6. Most recent about $20,000; typical $12,000–16,000.
+  [verified count floor; approx range] Write "at least six" and "$12,000–20,000."
 
 - **F-STORY-18 Lubricant consolidation** (food plant). Working to consolidate and source their
   lubricants. [confirm — status and result]
@@ -217,4 +228,5 @@ Customers are described by type, never named. Add or change facts via `skills/up
 - OEM design-in wins (parts written onto a customer's drawing) — unless confirmed.
 - Chillers — unless he names what he supplied.
 - 212 accounts (use "more than 180"). Any number not in this file.
+- The largest account's name, or the aluminum casting plant's name.
 - Weimer as employer. Any customer's name.
