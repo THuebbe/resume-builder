@@ -39,7 +39,11 @@ Customers are described by type, never named. Add or change facts via `skills/up
 
 ## Scope and numbers (current role)
 - F-SALES-01 About $3.1M in annual sales (2026). [approx — write "about $3.1 million"]
-- F-SALES-02 Book shows ~212 customers; more than 180 active. [approx — write "more than 180 active accounts"]
+- F-SALES-02 Book shows ~212–220 customers; earlier "more than 180 active." [approx]
+  11-25-2026: Tobi prospected and set up about 205 of the ~220 himself; many are still prospects with
+  no sales yet; some are inactive or handed off but still listed under him. About 165 he sought out himself.
+  [verified] How many bought in the last 12 months? [confirm — needed before writing "active accounts"
+  or "opened X accounts"]
 - F-SALES-03 Day-to-day contact for maintenance, planning, parts-room and purchasing staff. [verified]
 - F-SALES-04 Serves OEM and MRO customers. [verified — matches company's own role description]
 - F-SALES-05 Built the territory through prospecting and cold calling; turns new customers into
@@ -60,6 +64,17 @@ Customers are described by type, never named. Add or change facts via `skills/up
   $144,000 each from the other manufacturer (about 37% lower, about $210,000 less across 4), and
   about 3 months faster. [verified — Tobi, 11-25-2026; lead time approx]
   Write "a $363,000 order," "more than $200,000 below the competing price," "about three months sooner."
+- F-SALES-10 Gross margin on his territory: 29.9% (2025), 29.1% (2026). [verified — Tobi, 11-25-2026]
+  Company average unknown (he guesses 22–25%); never claim "above average." Write "about 30% gross margin."
+- F-SALES-11 Comp plan: sales and GP goals; bonus based on new customers opened, starting 2026.
+  No contests or awards; no rankings shared. [verified] (context only)
+- F-SALES-12 Lost accounts: one at $200,000–250,000 when the manufacturer took it direct; one at
+  about $100,000 when its corporate office signed a national contract with a competitor (still did
+  about $32,000 with him in 2026). A couple closed. Retention otherwise strong. [verified] Interview only.
+- F-SALES-13 2021–2022 shortages: found interchanges and alternate sources constantly; his sales grew
+  through that period. [verified] Competitors "flat or down" is hearsay; don't claim it.
+- F-SALES-14 Urgent support: 2–3 after-hours calls a month, 2–3 same-day couriers a month, next-day
+  air a couple of times a week, a hand delivery at least monthly. [approx]
 - F-SALES-09 Largest account: a motor repair shop. Consignment stock of bearings, seals and paint,
   plus many new gearbox units. Likely over $300,000 in 2026. [approx — write "about $300,000"]
   Took the consignment over from a competitor whose stock sat on shelves, poorly organized. Tobi's
@@ -82,6 +97,11 @@ Customers are described by type, never named. Add or change facts via `skills/up
   trained on motor efficiency. [verified]
 - F-TECH-04 Common hydraulic field problems he sees: dirty oil, worn hoses, leaky cylinders,
   obsolete or long-lead hydraulic motors. [verified]
+- F-TECH-07 Field tools: RPM gauge (gearbox output speed), pressure gauges (pump specs), belt
+  tension gauges, thermal gun. Basic bearing failure analysis on site; sends deeper cases to the
+  manufacturer's lab and has coordinated several. [verified]
+- F-TECH-08 Gathers application data to specify equipment, e.g. throughput (tons per hour) and
+  existing equipment sizes for a screw conveyor drive, then picks the gearbox and motor. [verified]
 - F-TECH-05 Chillers: "maybe indirectly." [confirm — do not claim until he names what he supplied]
 - F-TECH-06 Electrical connectors, wire and cable, relays. [confirm — no evidence; treated as a gap]
 
@@ -104,6 +124,7 @@ Customers are described by type, never named. Add or change facts via `skills/up
   belting and components), Continental (belts), Global O-Ring and Seal (industry-specific seal
   information). [verified — Tobi, 11-24 and 11-25-2026]
 - F-EDU-04 Data-center-specific product training. No manufacturer named when asked 11-25-2026. [confirm — do not use]
+- F-EDU-06 Many plant safety orientations at customer sites; no other safety certifications. [verified]
 - F-EDU-05 Older draft listed LOTO, VFD/soft-starter training, and SKF, Dodge, Rexnord, Nord,
   Radicon training. [confirm — origin unknown, do not use yet]
 
@@ -129,8 +150,10 @@ Customers are described by type, never named. Add or change facts via `skills/up
 
 - **F-STORY-03 Gearbox reliability turnaround** (gypsum plant). Reducers failing every 6 months,
   sometimes in 2–3 weeks, from cracked cast housings. Switched brand and style at the same frame
-  size: life went to about 2 years. Customer asked for more; upsized one frame; now they rarely
-  need a replacement. [verified]
+  size: life went to about 2 years. Customer asked for more; upsized one frame; some of those lasted
+  more than 6 years and others are still running. [verified — Tobi, 11-25-2026]
+  Write "from failures every six months to more than six years."
+  The account has since moved to a competitor's contract (not a service problem).
 
 - **F-STORY-04 Belt standardization** (closures/cap manufacturer). Recurring belt wear and
   failures; Tobi selected a better belt material; it worked, and the customer switched nearly all
@@ -179,10 +202,11 @@ Customers are described by type, never named. Add or change facts via `skills/up
 - **F-STORY-13 Same-day line save → new account** (container plant). Machine down holding up a line;
   pulled the part from another branch the same day; running within a couple of hours. Earned a plant
   meeting; uncovered about $25,000/year the plant spent on couriers because suppliers didn't stock
-  locally. [verified]
+  locally. [verified] Since then: repeat orders, not yet regular. [verified]
 
 - **F-STORY-14 Vendor-managed fastener inventory** (limestone mining). Set up in one department;
-  two more departments have asked for it. [verified]
+  two more departments have asked for it; now running in a small division as a test before a larger
+  one. [verified]
 
 - **F-STORY-15 Washdown hose compliance** (food plant). Replaced a hose that wasn't FDA-rated with a
   compliant assembly that cost less. [verified]
@@ -210,6 +234,12 @@ Customers are described by type, never named. Add or change facts via `skills/up
   retired 11-24-2026. [verified] (resume wording: "keep my own follow-up pipeline")
 - F-BUILD-05 Attended the Iowa Recycling & Solid Waste Conference expo (10-2026) with a prepared
   talk track. Two contacts, neither promising; most exhibitors were outside his territory. [verified] Not resume material.
+
+- F-BUILD-06 Other reps use his improved itinerary form and Excel quote form; he has shared several
+  quote-building tools and AI prompts; others have asked for his sales dashboard app. [verified]
+  Write "built quoting and itinerary tools other reps use."
+- F-BUILD-07 Facilitated about 6 customer lunch-and-learns run by manufacturers (bearing installation,
+  failure analysis, best practices). [verified] Write "set up," not "led."
 
 ## Mentoring and leadership
 - F-LEAD-01 Has trained three reps; all lacked territory mapping, canvassing, cold-call and
@@ -251,3 +281,4 @@ Customers are described by type, never named. Add or change facts via `skills/up
 - 212 accounts (use "more than 180"). Any number not in this file.
 - The largest account's name, or the aluminum casting plant's name.
 - Weimer as employer. Any customer's name.
+- "Above company average" margin. Competitors' results. "Opened X accounts" until F-SALES-02 is confirmed.
