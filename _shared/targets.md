@@ -1,0 +1,31 @@
+# Targets — what jobs Tobi wants
+
+reviewed: 11-24-2026. Used by `skills/go-no-go.md`.
+
+## Hard floor
+- **Pay:** base of at least $100,000/year (or a credible path to it in year one with commission).
+
+## Strong preferences
+- **Remote or remote-capable** roles score higher (long-term plans favor location independence).
+- **Commute:** in-person roles within ~50 miles of West Branch, IA (ZIP 52358).
+- **Travel:** regional day travel and occasional overnights are fine. Flag anything 50%+ with
+  frequent overnights.
+- **Work he's best at:** opening new accounts, solving technical problems on the plant floor,
+  designing or specifying a fix, variety day to day.
+- **Work he likes less:** pure tending of mature accounts with no growth angle; repetitive
+  routines with no new problems.
+
+## Role families that fit
+- Technical / industrial sales and account management
+- Applications engineer, sales engineer, solutions engineer
+- Field service, reliability or commissioning roles that accept experience in place of a degree
+- Industrial products with power transmission, fluid power, conveying, cooling or energy angles
+
+## Known gaps to watch
+- **Degree:** A.S. in Engineering, no bachelor's. "Bachelor's required" = likely ATS knockout.
+  Apply anyway if fit is strong, and reach a human (hiring manager or recruiter) directly.
+- **Electrical/connector product experience:** limited. Mechanical and fluid power are strong.
+- **OEM design-in selling** (getting parts onto a customer's drawing): limited — confirm per posting.
+
+## Not targeting
+- Internal Weimer/Standard Bearings openings through the public posting (those go through Paul).

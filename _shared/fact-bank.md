@@ -1,0 +1,220 @@
+# Fact bank — the only source of facts about Tobi
+
+reviewed: 11-24-2026
+
+Status tags: **[verified]** Tobi stated it plainly · **[approx]** rough number; use the safe version
+shown · **[confirm]** inferred or from an older source; do not use until Tobi says yes.
+Customers are described by type, never named. Add or change facts via `skills/update-fact-bank.md`.
+
+---
+
+## Snapshot (stage 01 reads only this)
+- 15 years with Standard Bearings (industrial distributor: power transmission, fluid power,
+  conveying, automation), 10 in outside sales. [verified]
+- Manages more than 180 active accounts, about $3.1M annual sales, southeast Iowa. [verified/approx]
+- Education: A.S. in Engineering. No bachelor's degree. [verified]
+- Based in West Branch, IA. [verified]
+- Strongest at: opening new accounts and solving technical problems on the plant floor. [verified]
+
+---
+
+## Contact
+- F-CON-01 Tobi Huebbe · West Branch, IA 52358 · 319-499-2608 · thuebbe08@gmail.com ·
+  linkedin.com/in/tobi-huebbe [verified]
+- F-CON-02 Alternate email thuebbe.coding@gmail.com — not used on resumes. [verified]
+
+## Employment history
+- F-JOB-01 **Outside Sales Representative**, Standard Bearings, Davenport, IA — April 2016 to present. [verified]
+- F-JOB-02 **Inside Sales Representative**, Standard Bearings, Davenport, IA — July 2011 to April 2016.
+  Started in inside sales; worked in the warehouse while learning the products; later full-time
+  inside; covered inside sales and the warehouse together after the warehouse lead retired, until a
+  replacement was hired. [verified — Tobi, 11-24-2026]
+- F-JOB-03 Prior role at Kohl's (appears on LinkedIn). Title and dates unknown. [confirm]
+- F-JOB-04 Employer naming: always "Standard Bearings." Never Weimer. [verified]
+- F-JOB-05 Standard Bearings came under Weimer through an acquisition; Tobi didn't formally re-hire. [verified] (context only, never on a resume)
+
+## Scope and numbers (current role)
+- F-SALES-01 About $3.1M in annual sales (2026). [approx — write "about $3.1 million"]
+- F-SALES-02 Book shows ~212 customers; more than 180 active. [approx — write "more than 180 active accounts"]
+- F-SALES-03 Day-to-day contact for maintenance, planning, parts-room and purchasing staff. [verified]
+- F-SALES-04 Serves OEM and MRO customers. [verified — matches company's own role description]
+- F-SALES-05 Built the territory through prospecting and cold calling; turns new customers into
+  mature accounts; grows them through audits, capital projects, and system and process redesigns. [verified]
+- F-SALES-06 Good at cold calling; dislikes parts of the process. [verified] (context, not resume wording)
+- F-SALES-07 Year-over-year growth or % of plan. [confirm — not yet provided]
+
+## Territory and markets
+- F-MKT-01 Southeast Iowa: Quad Cities, DeWitt, Muscatine, Mount Pleasant, Burlington, Fort Madison, Keokuk. [verified]
+- F-MKT-02 Also west central Illinois and a couple of accounts in the north Chicago suburbs. [confirm — still current?]
+- F-MKT-03 Industries served: food processing, steel mills (more than one), mines and quarries,
+  municipalities, fabricators. [verified]
+- F-MKT-04 Also: recycling/scrap, container manufacturing, gypsum, closures/caps, construction materials. [verified — from stories]
+
+## Products and technical knowledge
+- F-TECH-01 Bearings, power transmission, gearmotors and drives, couplings, shafts, belt drives,
+  hydraulics, pneumatics, vacuum, hose and fittings, screw and belt conveyors, bucket elevators,
+  seals, process gauges, PLC basics. [verified]
+- F-TECH-02 Supplies motors, gearboxes, couplings, shafts, pumps and process gauges for plant
+  cooling towers and heat exchangers. [verified]
+- F-TECH-03 Energy audits on drive systems; changes drive components to cut energy use and waste;
+  trained on motor efficiency. [verified]
+- F-TECH-04 Common hydraulic field problems he sees: dirty oil, worn hoses, leaky cylinders,
+  obsolete or long-lead hydraulic motors. [verified]
+- F-TECH-05 Chillers: "maybe indirectly." [confirm — do not claim until he names what he supplied]
+- F-TECH-06 Electrical connectors, wire and cable, relays. [confirm — no evidence; treated as a gap]
+
+## Tools and software
+- F-TOOL-01 Epicor Prophet 21 (P21): customer records, activity logging, open-quote portal. [verified]
+- F-TOOL-02 Not Salesforce. Has used P21's CRM features and his own follow-up tracker. [verified]
+- F-TOOL-03 Excel: sizing and pricing tools; VBA automation for cross-workbook part-number lookups. [verified]
+- F-TOOL-04 Fusion 360: parts, assemblies, sheet metal with flat patterns, drawing packages. Self-taught. [verified]
+- F-TOOL-05 3D printing (designed and printed replacement parts). [verified]
+- F-TOOL-06 Microsoft 365 / Outlook / Copilot. [verified]
+- F-TOOL-07 Self-taught JavaScript, React, Next.js, TypeScript; builds and deploys web apps
+  (Supabase, Vercel). [verified]
+- F-TOOL-08 ESP32 hardware projects (touchscreen guest-WiFi QR display; water level monitor). [verified]
+
+## Education and training
+- F-EDU-01 A.S., Engineering, Eastern Iowa Community Colleges, ~2004. Year never shown. [verified]
+- F-EDU-02 MSHA Part 48 miner training for underground mine access. [verified]
+  Older draft said "48B" (surface). [confirm — 48A, 48B, or both?]
+- F-EDU-03 Manufacturer product training: Gates, Continental, Fenner (belt drives). [verified]
+- F-EDU-04 Data-center-specific product training. [verified that it happened; confirm which manufacturer]
+- F-EDU-05 Older draft listed LOTO, VFD/soft-starter training, and SKF, Dodge, Rexnord, Nord,
+  Radicon training. [confirm — origin unknown, do not use yet]
+
+---
+
+## Stories (use for highlights, bullets and projects)
+
+- **F-STORY-01 Bucket elevator resonance** (construction-materials plant). Elevator shook hard enough
+  to shake the building; shaft visibly moving; bearings destroyed; everyone suspected the gearbox.
+  Quote was about $20,000 gearbox + about $6,000 bearings, plus crane time. Tobi wasn't convinced,
+  found sprocket teeth catching the chain and setting up a resonance as it sped up and slowed down.
+  Fixed with a bracket for about $3,000–4,000. No crane, faster repair. [verified story; approx numbers]
+  Safe version: "Diagnosed a resonance problem everyone took for gearbox failure; a $3,000–4,000 fix
+  replaced a quoted $26,000 gearbox and bearings and avoided a crane." [confirm exact sprocket detail]
+
+- **F-STORY-02 Integral gearmotor pushback.** After an integral gearmotor failed with a long lead
+  time, the customer wanted to replace that whole brand of motors and gearboxes. Tobi pushed back: the
+  brand was fine, the integral style was the problem. Recommended a separate gearbox with a NEMA
+  C-face motor: faster lead times, parts on the shelf, replace only the failed piece.
+  [verified story] Dollar impact (~$30,000 avoided vs. under $1,000?) [confirm]
+
+- **F-STORY-03 Gearbox reliability turnaround** (gypsum plant). Reducers failing every 6 months,
+  sometimes in 2–3 weeks, from cracked cast housings. Switched brand and style at the same frame
+  size: life went to about 2 years. Customer asked for more; upsized one frame; now they rarely
+  need a replacement. [verified]
+
+- **F-STORY-04 Belt standardization** (closures/cap manufacturer). Recurring belt wear and
+  failures; Tobi selected a better belt material; it worked, and the customer switched nearly all
+  of its belts to that style. [verified] Details (lacing failures, product marring, vision
+  inspection issues) came from an earlier draft. [confirm]
+
+- **F-STORY-05 Custom knife gate** (limestone mining). Standard linear-actuator knife gates jam
+  under a full bin and can't close past a trapped rock. Worked with the manufacturer to design a
+  custom 16-inch rack-and-pinion slide gate driven by a 5 HP helical-bevel gearmotor, and specified
+  the encoder for position feedback. Ordered April 2026. [verified] Installed and working? [confirm]
+
+- **F-STORY-06 Line-shaft conveyor redesign (honest miss).** Roller conveyor carrying bars from a
+  tempering furnace to the quench ran on one chain, so one failure stopped the line. Redesigned it to
+  a line shaft with individual O-ring belts per roller for redundancy. Undersized the bearings, then
+  missed the pulley diameter on the fix, so belts snapped. Iterated until it ran, absorbing costs;
+  the relationship soured. Lesson: check every interface before changing one component. [verified]
+  Use only in interviews or where a posting values candor; not on resumes by default.
+
+- **F-STORY-07 Dual-lane conveyor design** (metal fabricator). Designed a two-lane conveyor for a
+  stamping press in Fusion 360, gearmotor drive to adjustable mount: 26-sheet drawing package,
+  33-item parts list. Not sold: customer's corporate office chose a fabricator in its home country. [verified]
+
+- **F-STORY-08 Stainless pump base** (pork processor). Carbon steel bases corroded in a wet pit.
+  Drew a formed stainless base in Fusion 360 with flat patterns and foot plates; iterated the design;
+  3 sold so far. [verified]
+
+- **F-STORY-09 Bottling line survey** (condiment plant). Line hadn't had major work in years; prints
+  scattered and incomplete. Walked it several times, checked prints against what was installed,
+  filled the gaps, built one spreadsheet to quote from. Quote just under $500,000, split into 4 phases
+  across departments; parts of each sold. [verified] Sales to date about $20,000–30,000, untracked.
+  [approx — write "about $20,000"; confirm in P21]
+
+- **F-STORY-10 Wastewater screw conveyors** (city plant). Augers under a treatment tank leaked
+  material and kept breaking parts. Brought in an engineer, led the diagnosis, wrote the spec for
+  redesigned flights and sealing. Public bid; another vendor won on that spec. [verified]
+  Whose engineer (manufacturer's application engineer?) [confirm]
+
+- **F-STORY-11 Obsolete crane seals.** Worn dust seals on an overhead crane trolley wheel had no
+  replacement. Measured, drew and 3D printed nylon replacements. About 5 years ago. [verified]
+
+- **F-STORY-12 Drive energy retrofit** (aluminum recycling plant, scrap-cutting line). During a
+  redesign, audited the drive: V-belts → synchronous belts, worm gearbox → helical-bevel,
+  motor → higher efficiency. Estimated savings about 16%, not documented. [approx — always "estimated"]
+  Defensible: worm gearboxes typically lose 10–30% depending on ratio; helical-bevel about 3–5%.
+
+- **F-STORY-13 Same-day line save → new account** (container plant). Machine down holding up a line;
+  pulled the part from another branch the same day; running within a couple of hours. Earned a plant
+  meeting; uncovered about $25,000/year the plant spent on couriers because suppliers didn't stock
+  locally. [verified]
+
+- **F-STORY-14 Vendor-managed fastener inventory** (limestone mining). Set up in one department;
+  two more departments have asked for it. [verified]
+
+- **F-STORY-15 Washdown hose compliance** (food plant). Replaced a hose that wasn't FDA-rated with a
+  compliant assembly that cost less. [verified]
+
+- **F-STORY-16 Storeroom surveys** (food processor, a couple of plants). Cataloged every storeroom
+  bin, then priced competitively or crossed items to budget-saving brands. [verified] Results? [confirm]
+
+- **F-STORY-17 Turnkey conveyor systems.** Sold complete conveyor systems several times, coordinating
+  installation with a millwright crew. [verified] How many, and dollar range? [confirm]
+
+- **F-STORY-18 Lubricant consolidation** (food plant). Working to consolidate and source their
+  lubricants. [confirm — status and result]
+
+## Building tools and process
+- F-BUILD-01 Bucket elevator sizing workbook (Excel) with validation flags and a method tab;
+  screw-conveyor version planned. Application data sheets in a house style. [verified]
+- F-BUILD-02 Built a documented-cost-savings tracker (Google Sheet: price, life-extension,
+  one-time and recurring savings). Awaiting data. [verified]
+- F-BUILD-03 Built an equipment-survey workbook (assets + components, nameplate cheat sheet) for a
+  customer site survey, 11-2026. [verified]
+- F-BUILD-04 Built a personal follow-up system: call capture feeding a daily action-item tracker;
+  retired 11-24-2026. [verified] (resume wording: "keep my own follow-up pipeline")
+- F-BUILD-05 Prepared a talk track for the Iowa Recycling & Solid Waste Conference expo (10-2026). [confirm — attended?]
+
+## Mentoring and leadership
+- F-LEAD-01 Has trained three reps; all lacked territory mapping, canvassing, cold-call and
+  itinerary skills; all became noticeably more effective after learning them. [verified]
+- F-LEAD-02 Mentors newer outside reps, including Sam. [verified] (Ivan too? [confirm])
+- F-LEAD-03 Writing "The Model Salesman" sales training course for technical people moving into
+  sales (39-chapter outline). Parked 11-24-2026. [verified]
+- F-LEAD-04 "Field Notes" coaching newsletter for newer reps: managers approved starting after the
+  New Year (2027) after he showed them a finished issue. [verified]
+- F-LEAD-05 Coordinates across branches, manufacturers (application engineers), millwrights and
+  customer engineers. [verified — from stories]
+
+## Side work (use with discretion)
+- F-SIDE-01 YardCard Elite: multi-tenant SaaS for yard-sign rental agencies (Next.js, Supabase,
+  Stripe). [verified]
+- F-SIDE-02 PantryPro: restaurant inventory app that deducts ingredients from point-of-sale sales. [verified]
+- F-SIDE-03 Benchbuilt Softworks (his side business). **Do not put on resumes** until he's disclosed
+  it to his manager. Show software skill as "self-taught," not as a business. [verified]
+
+## Strengths Tobi names
+- F-STR-01 Breaking into new accounts and opening doors. [verified]
+- F-STR-02 Relatable; breaks down walls with customers. [verified]
+- F-STR-03 Likes the administrative side. [verified]
+- F-STR-04 Likes new problems and variety; dislikes repetition. [verified]
+- F-STR-05 Weaker at tending mature accounts once growth plateaus. [verified] (context, never on a resume)
+
+## References (not on the resume; for applications that ask)
+- F-REF-01 Danny (customer contact) — possible reference; not yet asked. [confirm which company]
+- F-REF-02 Nick (limestone mining customer) — possible reference; not yet asked. [verified]
+
+---
+
+## Do not claim
+- A bachelor's degree. Salesforce. Data center sales experience. Electrical connector/wire sales.
+- OEM design-in wins (parts written onto a customer's drawing) — unless confirmed.
+- Chillers — unless he names what he supplied.
+- 212 accounts (use "more than 180"). Any number not in this file.
+- Weimer as employer. Any customer's name.
