@@ -54,10 +54,12 @@ Customers are described by type, never named. Add or change facts via `skills/up
   So about $2.5M of the $3.1M is outside those 4 (about 5x the 2016 base). Interview answer, not resume text.
 - F-SALES-08 Largest single order: 4 large roll-neck bearings for an aluminum casting plant,
   $363,407.36, delivered ahead of the originally forecast lead time. [verified]
-  Tobi found the opportunity. None of his usual suppliers could quote the bearing; he worked with a
-  vendor that didn't make it yet, and that vendor added it because of this order. Came in at about
-  two-thirds of the competing price and about 3 months faster. [verified; price and lead time approx]
-  Write "a $363,000 order," "about a third below the competing price," "about three months sooner."
+  Tobi found the opportunity. The bearing was on the market from one manufacturer, but Standard
+  Bearings wasn't authorized to buy from it. He worked with another vendor that didn't make the part
+  yet, and that vendor added it because of this order. Quoted just under $91,000 each vs. about
+  $144,000 each from the other manufacturer (about 37% lower, about $210,000 less across 4), and
+  about 3 months faster. [verified — Tobi, 11-25-2026; lead time approx]
+  Write "a $363,000 order," "more than $200,000 below the competing price," "about three months sooner."
 - F-SALES-09 Largest account: a motor repair shop. Consignment stock of bearings, seals and paint,
   plus many new gearbox units. Likely over $300,000 in 2026. [approx — write "about $300,000"]
   Took the consignment over from a competitor whose stock sat on shelves, poorly organized. Tobi's
