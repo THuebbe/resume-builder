@@ -3,14 +3,14 @@
 reviewed: 11-24-2026
 
 ## Do
-- **Implied first person everywhere.** "Manage more than 180 accounts," not "I manage" or "He manages."
+- **Implied first person everywhere.** "Manage about 75 active accounts," not "I manage" or "He manages."
   The summary may use third-person-style fragments ("Technical sales professional with…").
 - **Brag with numbers, not adjectives.** Every claim gets a number, a name of a thing, or a result.
 - **Bullets tell what, how, and result** where the result exists. 1–3 lines each.
 - **Vary structure.** Not every bullet the same length or shape. Not every project with a punchline.
 - **Plain shop-floor words.** "Down line," "wet pit," "pulled the part from another branch."
 - **Keep honest losses** when they show judgment (the wastewater bid lost on our spec).
-- **Conservative numbers.** Use the safe value from the fact bank ("more than 180," "about $20,000").
+- **Conservative numbers.** Use the safe value from the fact bank ("about 75 active accounts," "about $20,000").
 - **Describe customers, never name them.** "A pork processor," "a limestone mining operation."
 - **Employer = Standard Bearings.** Never Weimer, never "a Weimer company."
 
