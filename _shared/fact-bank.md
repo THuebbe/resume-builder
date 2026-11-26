@@ -55,18 +55,15 @@ Customers are described by type, never named. Add or change facts via `skills/up
   [verified approx] Write "opened more than 50 of about 73 active accounts, which produce about 75% of
   sales," "opened 9 new accounts in 2026," "sales from accounts I opened grew 53% in the last 12 months."
   Older notes: book ~212–220 customers.
-  11-25-2026: Tobi prospected and set up about 205 of the ~220 himself; many are still prospects with
-  no sales yet; some are inactive or handed off but still listed under him. About 165 he sought out himself.
-  [verified] How many bought in the last 12 months? [confirm — needed before writing "active accounts"
-  or "opened X accounts"]
+  Earlier estimate (superseded by the sort above): prospected about 205 of ~220 himself.
 - F-SALES-03 Day-to-day contact for maintenance, planning, parts-room and purchasing staff. [verified]
 - F-SALES-04 Serves OEM and MRO customers. [verified — matches company's own role description]
 - F-SALES-05 Built the territory through prospecting and cold calling; turns new customers into
   mature accounts; grows them through audits, capital projects, and system and process redesigns. [verified]
 - F-SALES-06 Good at cold calling; dislikes parts of the process. [verified] (context, not resume wording)
 - F-SALES-07 Territory sales: just under $500,000 when Tobi took it over in 2016 (about $489,000),
-  about $3.1M in 2026. That's about 6.3x, roughly 20% a year compounded. [verified — Tobi, 11-24-2026]
-  Write "grew territory sales from under $500,000 to about $3.1 million."
+  about $3.0M for the 12 months to 10-31-2026 (F-SALES-01). About 6x. [verified]
+  Write "grew territory sales from under $500,000 to about $3 million."
   Reassigned accounts: a few were handed to him after 2016 and he has grown them too. The 4 that
   move the numbers: $566,368 in 2026 (year to date, 11-2026) and $619,422 in 2025. Two swing a lot
   year to year by their nature; two hold steady at about $30,000 and $60,000. [verified — Tobi, 11-25-2026]
@@ -120,6 +117,11 @@ Customers are described by type, never named. Add or change facts via `skills/up
   manufacturer's lab and has coordinated several. [verified]
 - F-TECH-08 Gathers application data to specify equipment, e.g. throughput (tons per hour) and
   existing equipment sizes for a screw conveyor drive, then picks the gearbox and motor. [verified]
+- F-TECH-09 Variable frequency drives: sized and sold at least 6, about two a year over the last
+  three years (conservative). Not his main line. Has sold a couple of SEW-EURODRIVE units. Early on,
+  sized Leeson and Toshiba drives. [verified — Tobi, 11-25-2026] Write "sized and sold VFDs" — never
+  "drives specialist."
+- F-TECH-10 Motion controllers / servos. [confirm — asked 11-25-2026, not answered]
 - F-TECH-05 Chillers: "maybe indirectly." [confirm — do not claim until he names what he supplied]
 - F-TECH-06 Electrical connectors, wire and cable, relays. [confirm — no evidence; treated as a gap]
 
@@ -142,6 +144,7 @@ Customers are described by type, never named. Add or change facts via `skills/up
   belting and components), Continental (belts), Global O-Ring and Seal (industry-specific seal
   information). [verified — Tobi, 11-24 and 11-25-2026]
 - F-EDU-04 Data-center-specific product training. No manufacturer named when asked 11-25-2026. [confirm — do not use]
+- F-EDU-07 WEG drives course (VFDs). [verified — Tobi, 11-25-2026]
 - F-EDU-06 Many plant safety orientations at customer sites; no other safety certifications. [verified]
 - F-EDU-05 Older draft listed LOTO, VFD/soft-starter training, and SKF, Dodge, Rexnord, Nord,
   Radicon training. [confirm — origin unknown, do not use yet]
@@ -299,4 +302,5 @@ Customers are described by type, never named. Add or change facts via `skills/up
 - 212 or 180 "active" accounts (use about 75 active). Any number not in this file.
 - The largest account's name, or the aluminum casting plant's name.
 - Weimer as employer. Any customer's name.
-- "Above company average" margin. Competitors' results. "Opened X accounts" until F-SALES-02 is confirmed.
+- "Above company average" margin. Competitors' results. Account counts other than F-SALES-02/15.
+- Motion controllers or servos — unless he names what he's done (F-TECH-10).
