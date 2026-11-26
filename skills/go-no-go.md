@@ -5,7 +5,7 @@
 **Writes:** the Go/No-go section of `01_intake.md`.
 
 ## Steps
-1. Check the hard floor: pay range vs $100K base. Below floor at the top of range = No-go.
+1. Check the hard floor in `_shared/targets.md` (total pay, base, and the whole package). Top of the range below the floor = No-go.
 2. Check location/remote and travel against `targets.md`.
 3. Check knockouts against the fact bank (degree, years, licenses). Mark each Pass / Fail / Unclear.
 4. Check level: overqualified (posting wants 1–3 yrs) or underqualified.
