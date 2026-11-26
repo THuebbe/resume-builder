@@ -10,6 +10,9 @@ reviewed: 11-24-2026. Used by `skills/go-no-go.md`.
 - **Count the whole package:** company car or car allowance, fuel, phone, 401(k) match, health premiums.
   Today Tobi pays about $225–250/month (about $3,000/year) to drive the company car, so a free car or
   an allowance is worth roughly $3,000–10,000/year more than what he has.
+  Current setup (11-25-2026): company pays maintenance; Tobi pays all fuel; business miles reimbursed at
+  about $0.17/mile (roughly fuel cost); commute fuel is his. The car charge is a separate paycheck line,
+  not part of the unexplained commission deductions.
 
 ## Top priority (Tobi, 11-25-2026)
 - **More income**, and a path up: wants to move beyond outside sales into roles that lead
