@@ -41,7 +41,7 @@ Customers are described by type, never named. Add or change facts via `skills/up
 - F-SALES-01 Sales, Annual Forecasting Dashboard (pulled 11-25-2026): $3,035,262 for 11-01-2025 to
   10-31-2026, up from $2,252,974 the 12 months before (+35%). [verified] Write "about $3 million."
   Through Q3 calendar 2026: $2.35M vs. $1.71M in 2025. Top 10 accounts are about 72% of sales.
-  Part of the jump may be one large order (F-SALES-08) — confirm its timing before claiming the 35%.
+  The roll-neck order (F-SALES-08) invoiced 04-2024, outside both windows, so the 35% is clean. [verified]
 - F-SALES-02 Dashboard count (11-25-2026, last 12 months): 191 accounts listed; 74 bought (16 of them
   under $1,000); 65 bought the year before; 56 bought both years; 18 new or returning; 9 bought the year
   before but not this year; 108 no sales in either year. [verified]
@@ -53,7 +53,7 @@ Customers are described by type, never named. Add or change facts via `skills/up
   - Not his (listed under him): 18; essentially no sales.
   - New in 2026: 9 accounts, all buying, about $72,000 so far.
   [verified approx] Write "opened more than 50 of about 73 active accounts, which produce about 75% of
-  sales," "opened 9 new accounts in 2026." Confirm the roll-neck order's timing before claiming the 53%.
+  sales," "opened 9 new accounts in 2026," "sales from accounts I opened grew 53% in the last 12 months."
   Older notes: book ~212–220 customers.
   11-25-2026: Tobi prospected and set up about 205 of the ~220 himself; many are still prospects with
   no sales yet; some are inactive or handed off but still listed under him. About 165 he sought out himself.
@@ -72,7 +72,7 @@ Customers are described by type, never named. Add or change facts via `skills/up
   year to year by their nature; two hold steady at about $30,000 and $60,000. [verified — Tobi, 11-25-2026]
   So about $2.5M of the $3.1M is outside those 4 (about 5x the 2016 base). Interview answer, not resume text.
 - F-SALES-08 Largest single order: 4 large roll-neck bearings for an aluminum casting plant,
-  $363,407.36, delivered ahead of the originally forecast lead time. [verified]
+  $363,407.36, invoiced 04-2024, delivered ahead of the originally forecast lead time. [verified]
   Tobi found the opportunity. The bearing was on the market from one manufacturer, but Standard
   Bearings wasn't authorized to buy from it. He worked with another vendor that didn't make the part
   yet, and that vendor added it because of this order. Quoted just under $91,000 each vs. about
