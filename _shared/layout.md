@@ -37,6 +37,12 @@ reviewed: 11-24-2026. Source of truth: `_shared/template/` (approved 11-24-2026)
 - Accent: #1D4E89 (blue). Alternates allowed: #9A3B12 rust, #2F5D3A green, #1B1E22 black.
 - Muted text: #4D545C. White background. No gradients, no shaded bars.
 
+## Areas of Expertise (Tobi, 11-25-2026)
+- Full-width block: `text-align: justify; text-align-last: justify`, line-height 1.6.
+- Each item is an inline-block so its own words never stretch; separator is `&nbsp;|` with 4px side
+  margins in the muted color, so a line never starts with a pipe.
+- Order items so each line carries a similar amount of text; check the render for big gaps.
+
 ## Line-break hygiene
 - No single word alone on a bullet's last line (rewrite the bullet shorter).
 - No section heading at the bottom of a page.

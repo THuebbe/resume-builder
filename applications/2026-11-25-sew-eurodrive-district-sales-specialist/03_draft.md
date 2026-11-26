@@ -14,7 +14,7 @@ PROFESSIONAL SUMMARY
 Technical sales professional with 10 years in outside sales and 15 years with Standard Bearings, a power transmission and fluid power distributor. Manages about 75 active accounts across food processing, steel, mining, municipal and fabrication plants in southeast Iowa, and increased territory sales 35% in the last year to about $3 million. Opens accounts through prospecting and plant-floor problem solving, then grows them through audits and capital projects.
 
 AREAS OF EXPERTISE
-Territory Development | Prospecting and Lead Qualification | Gear Reducers and Gearmotors | Electric Motors | Variable Frequency Drives (VFD) | Power Transmission | Drive Sizing and Application Data | Energy-Efficient Drive Retrofits | OEM and MRO Sales | Distributor and Manufacturer Coordination | Customer Relationships | Rep Training and Mentoring | CRM and Pipeline Tracking (Epicor P21) | Fluid Power
+Gear Reducers and Gearmotors | Electric Motors | Variable Frequency Drives (VFD) | Power Transmission | Territory Development | Prospecting and Lead Qualification | Customer Relationships | Fluid Power | Drive Sizing and Application Data | Energy-Efficient Drive Retrofits | Rep Training and Mentoring | Distributor and Manufacturer Coordination | OEM and MRO Sales | CRM and Pipeline Tracking (Epicor P21)
 
 CAREER HIGHLIGHTS
 Territory growth: Grew territory sales from under $500,000 in 2016 to about $3 million. Accounts opened through personal prospecting now produce about 75% of sales and grew 53% in the last 12 months.
