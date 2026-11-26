@@ -8,6 +8,8 @@ reviewed: 11-24-2026. Used by `skills/go-no-go.md`.
 - **Exception:** equal pay is acceptable only with a clear promotion path written into the offer
   conversation (e.g., regional sales manager within 2 years).
 - **Count the whole package:** company car or car allowance, fuel, phone, 401(k) match, health premiums.
+  Today Tobi pays about $225–250/month (about $3,000/year) to drive the company car, so a free car or
+  an allowance is worth roughly $3,000–10,000/year more than what he has.
 
 ## Top priority (Tobi, 11-25-2026)
 - **More income**, and a path up: wants to move beyond outside sales into roles that lead
