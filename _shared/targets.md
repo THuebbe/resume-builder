@@ -5,6 +5,11 @@ reviewed: 11-24-2026. Used by `skills/go-no-go.md`.
 ## Hard floor
 - **Pay:** base of at least $100,000/year (or a credible path to it in year one with commission).
 
+## Top priority (Tobi, 11-25-2026)
+- **More income**, and a path up: wants to move beyond outside sales into roles that lead
+  (regional sales manager, sales manager, channel or national accounts). Has accepted prospecting
+  and is taking on leadership on his own. Score roles higher when they have a visible promotion path.
+
 ## Strong preferences
 - **Remote or remote-capable** roles score higher (long-term plans favor location independence).
 - **Commute:** in-person roles within ~50 miles of West Branch, IA (ZIP 52358).
