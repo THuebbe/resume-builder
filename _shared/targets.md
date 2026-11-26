@@ -3,7 +3,11 @@
 reviewed: 11-24-2026. Used by `skills/go-no-go.md`.
 
 ## Hard floor
-- **Pay:** base of at least $100,000/year (or a credible path to it in year one with commission).
+- **Pay:** total compensation of at least $115,000/year, about a 15% raise over today, with base pay
+  of at least $85,000. Current total pay is about $100,000 (11-25-2026), so $100K is lateral, not a raise.
+- **Exception:** equal pay is acceptable only with a clear promotion path written into the offer
+  conversation (e.g., regional sales manager within 2 years).
+- **Count the whole package:** company car or car allowance, fuel, phone, 401(k) match, health premiums.
 
 ## Top priority (Tobi, 11-25-2026)
 - **More income**, and a path up: wants to move beyond outside sales into roles that lead
