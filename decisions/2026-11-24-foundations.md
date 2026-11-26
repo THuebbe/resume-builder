@@ -30,3 +30,6 @@ Settled while building the first resumes (TE Connectivity screen, Stellar Energy
 - **MSHA line: "surface and underground"** (48B, then 48A).
 - **Reference names and companies stay out of the repo** (customer confidentiality).
 - **Stellar Energy archived:** posting closed before applying.
+- **Fact-bank gaps vs. false claims.** The SEW blind review flagged true inside-sales duties that had
+  been left out of the fact bank. The rule stands (no fact, no claim), but when the review flags a
+  line that came from an earlier approved draft, ask Tobi before cutting it.

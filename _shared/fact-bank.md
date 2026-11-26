@@ -30,11 +30,16 @@ Customers are described by type, never named. Add or change facts via `skills/up
   Started in inside sales; worked in the warehouse while learning the products; later full-time
   inside; covered inside sales and the warehouse together after the warehouse lead retired, until a
   replacement was hired. [verified — Tobi, 11-24-2026]
+  Inside sales duties: quoted, sourced and expedited orders for the outside sales team. While covering
+  the warehouse: receiving, shipping and local deliveries. [verified — Tobi, 11-25-2026; was in the
+  original resume draft but missed when the fact bank was built]
 - F-JOB-03 Kohl's, February 2008 to July 2011. Started on the register; worked customer service,
   cash office, facilities and truck unloading; ended as Customer Service Supervisor (current title
   for the role). Top performer on credit card and email sign-ups. [verified — Tobi, 11-25-2026]
   Off resumes by default (pre-industry, space); keep on LinkedIn.
 - F-JOB-04 Employer naming: always "Standard Bearings." Never Weimer. [verified]
+- F-JOB-06 Several Standard Bearings reps have moved into manufacturer roles; manufacturers tend to
+  value hires from the company. [verified — Tobi, 11-25-2026] (interview and cover-letter context, never resume text)
 - F-JOB-05 Standard Bearings came under Weimer through an acquisition; Tobi didn't formally re-hire. [verified] (context only, never on a resume)
 
 ## Scope and numbers (current role)
@@ -119,7 +124,7 @@ Customers are described by type, never named. Add or change facts via `skills/up
   existing equipment sizes for a screw conveyor drive, then picks the gearbox and motor. [verified]
 - F-TECH-09 Variable frequency drives: sized and sold at least 6, about two a year over the last
   three years (conservative). Not his main line. Has sold a couple of SEW-EURODRIVE units. Early on,
-  sized Leeson and Toshiba drives. [verified — Tobi, 11-25-2026] Write "sized and sold VFDs" — never
+  sized Leeson and Toshiba drives. Example: VFDs for a 25 HP and a 50 HP pump motor. [verified — Tobi, 11-25-2026] Write "sized and sold VFDs" — never
   "drives specialist."
 - F-TECH-10 Motion controllers / servos. [confirm — asked 11-25-2026, not answered]
 - F-TECH-05 Chillers: "maybe indirectly." [confirm — do not claim until he names what he supplied]

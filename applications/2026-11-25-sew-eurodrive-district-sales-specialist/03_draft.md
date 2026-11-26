@@ -38,9 +38,9 @@ TOBI HUEBBE | PAGE 2 OF 2
 
 PROFESSIONAL EXPERIENCE, CONTINUED
 Inside Sales Representative, Standard Bearings, Davenport, IA | July 2011 – April 2016
-Supported the outside sales team from the inside sales desk.
+Quoted, sourced and expedited orders for the outside sales team.
 - Learned the product lines hands-on by working in the warehouse while training on the inside sales desk.
-- Covered inside sales and the warehouse at once after the warehouse lead retired, until a replacement was hired.
+- Covered inside sales and the warehouse at the same time after the warehouse lead retired, handling receiving, shipping and local deliveries until a replacement was hired.
 
 SELECTED PROJECTS
 Drive energy retrofit, aluminum recycling plant. During a redesign of a scrap-cutting line, audited the drive and replaced V-belts with synchronous belts, a worm gearbox with a helical-bevel reducer and the motor with a higher-efficiency model. Estimated energy savings: about 16%.
@@ -48,7 +48,7 @@ Turnkey conveyor systems. Sold at least six complete conveyor systems, typically
 Stainless pump base, pork processor. Drew a formed stainless base in Fusion 360 to replace carbon steel ones that corroded in a wet pit. Iterated the design and have sold three so far.
 
 TECHNICAL SKILLS
-Drives: Gear reducers and gearmotors (helical-bevel, worm, integral and NEMA C-face), electric motors, variable frequency drives, encoders
+Drives: Gear reducers and gearmotors (helical-bevel, worm, integral and NEMA C-face), electric motors, variable frequency drives (including 25 and 50 HP pump motors), encoders
 Products: Bearings, couplings, belt drives, conveyors, pumps, hydraulics, pneumatics, hose and fittings, seals, process gauges
 Field: RPM and pressure gauges, belt tension gauges, thermal gun, basic bearing failure analysis
 Tools: Epicor P21 (CRM, quotes, activity logging), Microsoft Office, Excel sizing and pricing tools with VBA, Fusion 360 CAD, 3D printing
@@ -63,5 +63,5 @@ EDUCATION AND TRAINING
 ## Fit note
 Measured in a Playwright render with Archivo and IBM Plex Mono loaded (11-25-2026):
 - Page 1: 99% of the text area (993 of 1004 px).
-- Page 2: 77%.
+- Page 2: 79%.
 - No single-word last lines on either page.

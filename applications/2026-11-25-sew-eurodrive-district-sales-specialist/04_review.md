@@ -212,3 +212,8 @@ Ten years of Iowa outside sales in power transmission with real gear reducer app
 - "15 years with Standard Bearings." "Technical Problem Solving" replaced by "Customer Relationships"; "Distributor Operations" became "Distributor and Manufacturer Coordination" (F-LEAD-05).
 - Not applied, with reason: bold labels on Career Highlights and the page-2 running header / "Continued" heading are part of the approved v2 layout (`decisions/2026-11-24-foundations.md`, `layout.md`); the running header renders as two spans, not an em dash.
 - Open questions for Tobi: motion controllers or servos (F-TECH-10); one concrete VFD example.
+
+## Follow-up (11-25-2026, after Tobi's reply)
+- Truth items 2–3 were a fact-bank gap, not a false claim: Tobi confirmed the inside sales duties
+  (quoted, sourced, expedited; receiving, shipping, local deliveries). Added to F-JOB-02 and restored.
+- VFD example added to F-TECH-09 and the Drives skills row: 25 HP and 50 HP pump motors.
